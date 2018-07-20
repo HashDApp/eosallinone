@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 20px;
+    display: block;
+}
+
+ul {
+    display: block;
+    overflow: hidden;
+    //white-space: nowrap;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+    width: 130px;
+}
